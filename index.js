@@ -11,15 +11,15 @@ const generateReadMe = ({yourname, title, description, installation, test, usage
 
   # Table of Contents
   _____________________
-  [ Description ] (#desc)
-  [ Installation ] (#inst)
-  [ Testing ] (#testing)
-  [ Usage ] (#usage)
-  [ Licensing ] (#lics)
-  [ Questions? ] (#ques)
-  [ Github ] (#git)
-  [ Email ] (#email)
-  [ Contributors ] (#contr)
+  [Description](#desc)
+  [Installation](#inst)
+  [Testing](#testing)
+  [Usage](#usage)
+  [Licensing](#lics)
+  [Questions?](#ques)
+  [Github](#git)
+  [Email](#email)
+  [Contributors](#contr)
 
   ______________________
   <a name="desc"</a>
