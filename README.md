@@ -17,55 +17,55 @@
   [Contributors](#contr)
 
   ______________________
-  <a name="desc"</a>
+  <a name="desc"></a>
   ## Description
   ______________________
   
   Generates a readme markdown file
 
-  <a name="inst"</a>
+  <a id="inst"></a>
   ## Installation
   ______________________
   
   cloning the repo
 
-  <a name="testing"</a>
+  <a id="testing"></a>
   ## Testing
   ______________________
 
   Testing
 
-  <a name="usage"</a>
+  <a name="usage"></a>
   ## Usage
   ______________________
 
   run the index.js file with node
 
-  <a name="lics"</a>
+  <a name="lics"></a>
   ## License
   ______________________
 
   MIT
 
-  <a name="git"</a>
+  <a name="git"></a>
   ## Github Username
   _______________________
 
   imkubes
 
-  <a name="email"</a>
+  <a name="email"></a>
   ## Email To Contact
   _______________________
 
   email@email.com
 
-  <a name="ques"</a>
+  <a name="ques"></a>
   ## Have Questions?
   _______________________
 
   My Email
   
-  <a name="contr"</a>
+  <a name="contr"></a>
   ## Contributors
   _______________________
   

@@ -22,55 +22,55 @@ const generateReadMe = ({yourname, title, description, installation, test, usage
   [Contributors](#contr)
 
   ______________________
-  <a name="desc"</a>
+  <a name="desc"></a>
   ## Description
   ______________________
   
   ${description}
 
-  <a name="inst"</a>
+  <a name="inst"></a>
   ## Installation
   ______________________
   
   ${installation}
 
-  <a name="testing"</a>
+  <a name="testing"></a>
   ## Testing
   ______________________
 
   ${test}
 
-  <a name="usage"</a>
+  <a name="usage"></a>
   ## Usage
   ______________________
 
   ${usage}
 
-  <a name="lics"</a>
+  <a name="lics"></a>
   ## License
   ______________________
 
   ${license}
 
-  <a name="git"</a>
+  <a name="git"></a>
   ## Github Username
   _______________________
 
   ${github}
 
-  <a name="email"</a>
+  <a name="email"></a>
   ## Email To Contact
   _______________________
 
   ${email}
 
-  <a name="ques"</a>
+  <a name="ques"></a>
   ## Have Questions?
   _______________________
 
   ${questions}
   
-  <a name="contr"</a>
+  <a name="contr"></a>
   ## Contributors
   _______________________
   
